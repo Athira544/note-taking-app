@@ -1,2 +1,2 @@
 # note-taking-app
-Note Taking Application built using Python, Flask, and HTML. Allows users to easily lot down notes online, with features for adding, saving, and viewing notes on the same page.
+Note Taking Application built using Python and Flask, with HTML for the user interface. This application allows users to effortlessly manage their notes online. Users can add, edit, and delete notes, with all changes reflected in real-time on the same page. Identified bugs have been fixed to ensure smooth operation. Future plans include implementing user authentication for secure note management and adding additional features for note organization and collaboration.
